@@ -23,6 +23,9 @@ selected_sector = st.sidebar.multiselect('Sector', sorted_sector_unique)
 User can select the number of chart to be shown.
 ![](images/closing%20price%20chart.PNG)
 
+The web app is deployed using streamlit.
+https://share.streamlit.io/yeojinyee/sp500/main/sp500.py
+
 ## Built With
 * Streamlit
 * Python
